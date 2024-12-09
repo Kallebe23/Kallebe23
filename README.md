@@ -8,7 +8,7 @@ Sou um desenvolvedor fullstack apaixonado por criar soluções eficientes e inov
 - Testes automatizados usando playwright
 - **Bancos de Dados**: Experiência com SQL e conhecimento em MongoDB
 
-Minha stack permite desenvolver aplicações completas, trazendo soluções otimizadas tanto para o cliente quanto para o servidor. Adoro desafios e procuro por oportunidades que expandam minhas competências e contribuam para projetos impactantes.
+Minha stack permite desenvolver aplicações completas, trazendo soluções otimizadas tanto para o cliente quanto para o servidor. Gosto de desafios e procuro por oportunidades que expandam minhas competências e contribuam para projetos impactantes.
 
 ## O que me motiva
 
